@@ -1,0 +1,7 @@
+2026-01-01 Opening Balances
+    assets:cash               100 USD
+    equity:opening-balances
+
+2026-01-02 Coffee
+    expenses:food              10 USD
+    assets:cash
